@@ -1,7 +1,6 @@
 # Sudoku solver
 
-
-P.S. KET is a lithuanian transilation.
+Console application that can solve/check given sudokus
 
 ## Built With
 
@@ -10,7 +9,8 @@ P.S. KET is a lithuanian transilation.
 ### What have I learned?
 
 * OOP
-* Generic data types, List collections...
+* Generic data types and structures
+* List collections...
 * Advanced algorithms
 
 ### Facts
