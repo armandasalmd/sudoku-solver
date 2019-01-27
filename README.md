@@ -5,8 +5,7 @@ P.S. KET is a lithuanian transilation.
 
 ## Built With
 
-* [WPF](https://docs.microsoft.com/en-us/dotnet/framework/wpf/) - .NET windows platform framework
-* [MahApps Metro](https://mahapps.com/) - frontend framework to make your app nice
+* [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 ### What have I learned?
 
